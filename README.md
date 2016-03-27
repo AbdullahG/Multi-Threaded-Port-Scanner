@@ -1,5 +1,4 @@
 # Multi-Threaded-Port-Scanner
-Multi Threaded TCP Port Scanning with Python
 The script tries to connect to a server over TCP/IP with the port numbers(in given range) and it determines the ports are whether open or closed.
 It is multi-threaded. By the way, it decrease the scanning time. 
 It had scaned 65535 ports in approximately 9 minutes with 5000 threads and ~200 mb memory usage.
